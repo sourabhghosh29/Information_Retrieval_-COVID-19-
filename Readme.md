@@ -21,8 +21,6 @@ Stage 6: Prediction Tool Deployment
 
 
 Data Description:
-
-
 CORD-19 by Allen AI is a resource of over 300,000 scholarly articles.
 Total Rows: 318137
 Columns:
@@ -32,21 +30,16 @@ Data Set link: https://allenai.org/data/cord-19
 
 Evaluation Metrics:
 
-
 • Compute semantic similarity scores
 • Compare and list the best scores based on a sentence level query
 • Comparing Clinical Bert, Bert models with other standard techniques such as cosine similarity and BLEU
 • Selecting model with best results based on prediction accuracy
 • Research on other evaluation metrics to judge performance measure of information retrieval methodology
 
-Appendix:
-
-
-The outputs will be the Top 10 Articles most similar to the Query. Intended output:
+Appendix: The outputs will be the Top 10 Articles most similar to the Query. Intended output:
 
 
 Future Scope:
-
 
 • Group articles based on research design – like – clinical trials, observational studies etc
 • Organize content for the information retrieval into categories
