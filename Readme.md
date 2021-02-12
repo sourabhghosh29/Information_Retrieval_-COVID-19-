@@ -5,12 +5,20 @@ COVID-19 has resulted in an explosion of online questions related to the pandemi
 3. How to speed up the pace of medical research and find relevant research publications without browsing all the existing publications for successful collaboration and innovation?
 
 Proposed Research Designs and Evaluation Techniques:
+
 Stage 1: Data Assimilation and Understanding the Requirements
+
 Stage 2: Data Pre-Processing & Cleaning
+
 Stage 3: Feature Engineering and manipulations
+
 Stage 4: Similarity Implementation: BERT and Clinical BERT
+
 Stage 5: Model Evaluations and Improvement
+
 Stage 6: Prediction Tool Deployment
+
+
 Data Description
 CORD-19 by Allen AI is a resource of over 300,000 scholarly articles.
 Total Rows: 318137
